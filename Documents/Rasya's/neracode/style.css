@@ -1,0 +1,16 @@
+.bg {
+  top: auto;
+  z-index: -5;
+  background-color: #f6eada;
+  height: 370px;
+  width: auto;
+}
+.bgkopi {
+  height: 440px;
+  position: absolute;
+  width: 800px;
+  top: -100px;
+}
+.container {
+  z-index: 3;
+}
